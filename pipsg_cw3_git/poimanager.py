@@ -14,8 +14,9 @@ class POIManager(object):
         self.pois.append(poi)
     return self.pois
   
-  def add_poi(self,poi):
-    pass
+  def add_poi(self,POI):
+    self.pois.append(POI)
+    return self.pois
     
   def get_poi_near(self,x,y,r):
     pass
