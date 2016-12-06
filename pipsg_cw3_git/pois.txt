@@ -1,1 +1,3 @@
-17.063889 51.111111 Uniwersytet Przyrodniczy we Wroc³awiu
+17.063889 51.111111 Uniwersytet Przyrodniczy we Wroclawiu
+16.753432 50.563422 Zabkowice Slaskie
+14.273422 50.064223 Praga
