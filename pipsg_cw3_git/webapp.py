@@ -14,7 +14,7 @@ def add_poi():
   x = request.args.get('x')
   y = request.args.get('y')
   name = request.args.get('name')
-  return ""
+  return "Dodano nowy punkt"
   
 @app.route('/find')
 def find_poi():
